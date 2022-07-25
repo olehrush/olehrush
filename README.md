@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @olehrush
-- 👀 I’m interested in impoving the quality of software as growing QA from Ukraine. 
+- 👀 I’m interested in impoving the quality of software as growing QA  Engineer from Ukraine. 
 - 🌱 I’m currently learning how to make my work on a daily basis even better. 
 - 💞️ I’m looking to collaborate with companies that share same values and where people are the highest priority. Russian supporters are not welcomed!
 
