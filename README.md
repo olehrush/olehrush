@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @olehrush
-- 👀 I’m QA  Engineer from Ukraine working in Munich. 
-- 💞️ I’m looking to collaborate with companies that share same values and where quiality of the products/software have highest priority. 
+- 👀 QA Engineer and lifelong learner, guided by justice and prioritizing quality over speed, on a mission to defend and build secure and resilient digital ecosystems as SOC Analyst
+- 💞️ I’m looking to collaborate with companies that share same values and where security and quality of the products/software have highest priority. 
 
 
 <!---
