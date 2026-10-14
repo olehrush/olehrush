@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @olehrush
-- 👀 QA Engineer and lifelong learner, guided by justice and prioritizing quality over speed, on a mission to defend and build secure and resilient digital ecosystems as SOC Analyst
+- 👀 QA Engineer in the past and lifelong learner, prioritizing quality over speed, on a mission to defend and build secure and resilient digital ecosystems as Security Professional.
 - 💞️ I’m looking to collaborate with companies that share same values and where security and quality of the products/software have highest priority. 
 
 
